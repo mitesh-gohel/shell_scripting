@@ -1,0 +1,4 @@
+p1.sh 	How to perform arithmetic operation in  shell script
+p2.sh 	To print pattern using while loo
+p3.sh 	Assign value to variable
+p4.sh 	How to print string, which end without new line
